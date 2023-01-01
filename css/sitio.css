@@ -1,7 +1,10 @@
-.cabecera {
+header {
+    height: 140px;
+    
+    font-size: 1.5rem;
+    
     background-image: url("../imgs/fondoinm.png"), linear-gradient(rgb(231, 101, 14), rgb(7, 7, 6));
     background-repeat: no-repeat;
-    background-size:contain;
-    height: 300px;
+    background-size: contain;
     background-color: #ee950f;
 }

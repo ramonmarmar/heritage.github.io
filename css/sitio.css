@@ -1,10 +1,14 @@
 header {
-    height: 140px;
-    
-    font-size: 1.5rem;
-    
+    height: 80px;
+
     background-image: url("../imgs/fondoinm.png"), linear-gradient(rgb(231, 101, 14), rgb(7, 7, 6));
     background-repeat: no-repeat;
     background-size: contain;
     background-color: #ee950f;
+    background-position: center;
+}
+
+.title-content{
+    background-color: black;
+    padding: 1rem;
 }

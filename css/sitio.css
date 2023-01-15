@@ -12,3 +12,16 @@ header {
     background-color: black;
     padding: 1rem;
 }
+
+.contenedor-foto{
+    text-align: center;
+}
+.foto-activo{
+    width: 200px;
+    filter: drop-shadow(10px 10px 6px #999898);
+    border-radius: 5%;
+    border: solid rgb(186, 184, 184) 5px;
+}
+.logo{
+    max-width: 120px;
+}
